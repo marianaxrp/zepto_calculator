@@ -1,3 +1,3 @@
-# zepto calculator
+# Zepto.js Calculator
 
-A simple calculator using zepto.js
+A simple calculator using HTML, CSS & Zepto.JS
